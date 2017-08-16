@@ -1,1 +1,10 @@
 c:\users\pedro.castro\documents\visual studio 2015\Projects\Janelaça\Janelaça\bin\Debug\Janelaça.exe.config
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\bin\Debug\Janelaça.exe.config
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\bin\Debug\Janelaça.exe
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\bin\Debug\Janelaça.pdb
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.csprojResolveAssemblyReference.cache
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.Form1.resources
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.Properties.Resources.resources
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.csproj.GenerateResource.Cache
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.exe
+C:\Users\Pedro.Castro\Desktop\GitHub\AV1_JanelaManeira\Janelaça\obj\Debug\Janelaça.pdb
